@@ -8,6 +8,6 @@ export default () => (
     <>
       Hello&nbsp;
     </>
-    World!
+    World2!
   </div>
 );
